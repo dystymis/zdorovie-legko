@@ -25,6 +25,9 @@ h3{font-size:18px;margin:1.2em 0 .4em}
 p{margin:.7em 0}
 .lead{font-size:18px;color:var(--muted)}
 .meta{color:var(--muted);font-size:13.5px}
+.crumbs{font-size:13.5px;color:var(--muted);margin:.2em 0 .6em}
+.crumbs a{color:var(--muted)}
+.crumbs a:hover{color:var(--accent)}
 img{max-width:100%;height:auto;border-radius:8px}
 ul,ol{padding-left:1.3em}
 li{margin:.35em 0}
