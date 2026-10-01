@@ -30,6 +30,7 @@ p{margin:.7em 0}
 .crumbs a{color:var(--muted)}
 .crumbs a:hover{color:var(--accent)}
 img{max-width:100%;height:auto;border-radius:8px}
+.article-hero{display:block;width:100%;margin:0 0 1.1em;border-radius:10px;aspect-ratio:1200/630;object-fit:cover;background:var(--soft)}
 ul,ol{padding-left:1.3em}
 li{margin:.35em 0}
 blockquote{margin:1em 0;padding:.6em 1em;border-left:4px solid var(--accent);background:var(--soft);color:var(--muted)}
