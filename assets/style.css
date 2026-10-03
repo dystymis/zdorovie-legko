@@ -52,6 +52,13 @@ th{background:var(--soft)}
 .related h2{font-size:19px}
 .related ul{list-style:none;padding:0}
 .related li{margin:7px 0}
+.toc{margin:1.1em 0;padding:.8em 1em;border:1px solid var(--line);border-radius:10px;background:var(--soft)}
+.toc-title{margin:0 0 .45em;font-size:15px;font-weight:700}
+.toc ul{list-style:none;padding:0;margin:0;columns:2;column-gap:1.6em}
+.toc li{margin:.25em 0;font-size:14.5px;break-inside:avoid}
+.toc a{color:var(--accent);text-decoration:none}
+.toc a:hover{text-decoration:underline}
+@media (max-width:640px){.toc ul{columns:1}}
 .site-footer{border-top:1px solid var(--line);background:var(--soft);color:var(--muted);font-size:14px;padding:18px 0 26px}
 .site-footer p{margin:.35em 0}
 .site-footer .note{font-size:13px;color:#8a94a0}
