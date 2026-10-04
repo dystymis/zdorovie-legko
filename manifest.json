@@ -1,0 +1,35 @@
+{
+  "name": "Здоровье легко",
+  "short_name": "Здоровье",
+  "description": "Практичные статьи о здоровье и самочувствии: привычки, питание, сон, активность и профилактика. Информация не заменяет консультацию врача.",
+  "start_url": "/zdorovie-legko/",
+  "scope": "/zdorovie-legko/",
+  "display": "standalone",
+  "background_color": "#f4f9f6",
+  "theme_color": "#2d6b4f",
+  "orientation": "portrait-primary",
+  "lang": "ru",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/zdorovie-legko/assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/zdorovie-legko/assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/zdorovie-legko/assets/icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": [
+    "health",
+    "lifestyle"
+  ]
+}

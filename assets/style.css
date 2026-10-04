@@ -41,6 +41,11 @@ th{background:var(--soft)}
 .card{border:1px solid var(--line);border-radius:10px;padding:18px 20px;margin:14px 0;background:var(--bg)}
 .card h2{margin:0 0 6px;font-size:19px}
 .card h2 a{color:var(--ink)}
+.card h3{margin:0 0 6px;font-size:17px;font-weight:700}
+.card h3 a{color:var(--ink)}
+.hub-group{margin:28px 0 10px}
+.hub-group>h2{margin:1.7em 0 .3em;padding-bottom:.35em;border-bottom:1px solid var(--line)}
+.group-desc{color:var(--muted);margin:.2em 0 .9em;font-size:15.5px}
 .card p{margin:.3em 0}
 .lead+.card{margin-top:18px}
 .ad-slot{margin:22px 0;min-height:90px}

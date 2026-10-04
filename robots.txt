@@ -1,7 +1,13 @@
+# Base rules
 User-agent: *
 Allow: /
+Disallow: /*?utm_
+Disallow: /*?fbclid=
+Disallow: /*?gclid=
+Disallow: /admin/
 Content-Signal: search=yes, ai-input=yes, ai-train=yes
 
+# AI crawlers (expanded)
 User-agent: GPTBot
 Allow: /
 Content-Signal: search=yes, ai-input=yes, ai-train=yes
@@ -11,6 +17,10 @@ Allow: /
 Content-Signal: search=yes, ai-input=yes, ai-train=yes
 
 User-agent: OAI-SearchBot
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: oai-searchbot
 Allow: /
 Content-Signal: search=yes, ai-input=yes, ai-train=yes
 
@@ -34,7 +44,19 @@ User-agent: Perplexity-User
 Allow: /
 Content-Signal: search=yes, ai-input=yes, ai-train=yes
 
+User-agent: Perplexity-crawler
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
 User-agent: Google-Extended
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: GoogleOther
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: Googlebot-Image
 Allow: /
 Content-Signal: search=yes, ai-input=yes, ai-train=yes
 
@@ -43,6 +65,34 @@ Allow: /
 Content-Signal: search=yes, ai-input=yes, ai-train=yes
 
 User-agent: CCBot
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: Applebot-Extended
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: cohere-ai
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: Amazonbot
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: Meta-ExternalAgent
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: YandexBot
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: Bingbot
+Allow: /
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
+
+User-agent: DuckDuckBot
 Allow: /
 Content-Signal: search=yes, ai-input=yes, ai-train=yes
 
