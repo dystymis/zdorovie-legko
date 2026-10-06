@@ -6,7 +6,21 @@
     <atom:link href="https://dystymis.github.io/zdorovie-legko/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Практичные статьи о здоровье и самочувствии: привычки, питание, сон, активность и профилактика. Информация не заменяет консультацию врача.</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 05 Oct 2026 06:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Почему живот постоянно вздутый: причины и что делать</title>
+      <link>https://dystymis.github.io/zdorovie-legko/zhivot-vzdut-vsegda/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/zhivot-vzdut-vsegda/</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Почему живот всегда вздутый: основные причины вздутия после еды и по утрам, что делать дома, какие продукты исключить и когда нужен приём гастроэнтеролога</description>
+    </item>
+    <item>
+      <title>Отекают ноги к вечеру: причины и лечение в домашних</title>
+      <link>https://dystymis.github.io/zdorovie-legko/otekayut-nogi-k-vecheru/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/otekayut-nogi-k-vecheru/</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Отекают ноги к вечеру лечение в домашних условиях, причины вечерней отёчности ног, что делать сразу вечером и когда отёк ноги становится поводом к врачу</description>
+    </item>
     <item>
       <title>Температура 38,3 у взрослого: что делать и чем сбить</title>
       <link>https://dystymis.github.io/zdorovie-legko/temperatura-38-3-u-vzroslogo/</link>
@@ -41,6 +55,13 @@
       <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/priznaki-diabeta-u-zhenshchin/</guid>
       <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
       <description>Ранние признаки диабета у женщин: жажда, частое мочеиспускание, зуд и молочница, какие анализы сдать, норма сахара натощак и первые шаги после диагноза.</description>
+    </item>
+    <item>
+      <title>Постоянно немеют пальцы на руках: причины и что делать</title>
+      <link>https://dystymis.github.io/zdorovie-legko/nemeyut-palcy-ruk-prichiny/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/nemeyut-palcy-ruk-prichiny/</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Постоянно немеют пальцы рук причины: какой палец немеет, что делать дома, когда онемение — признак компрессии нерва и какие обследования назначит врач</description>
     </item>
     <item>
       <title>Почему кровоточат десны: причины и способы лечения</title>
@@ -78,11 +99,32 @@
       <description>Боль в горле и осиплость: что делать в первые дни, чем полоскать горло, покой голоса, когда нужен антибиотик и первые признаки ангины у взрослых.</description>
     </item>
     <item>
+      <title>Признаки аритмии и брадикардии: симптомы и диагностика</title>
+      <link>https://dystymis.github.io/zdorovie-legko/aritmiya-bradikardiya-priznaki/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/aritmiya-bradikardiya-priznaki/</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Признаки аритмии брадикардия: как проявляются перебои в сердце и редкий пульс, чем опасные симптомы отличаются от нормы и какие исследования назначает кардиолог</description>
+    </item>
+    <item>
+      <title>Давление повышено, а пульс низкий: что делать и почему</title>
+      <link>https://dystymis.github.io/zdorovie-legko/davlenie-povysheno-puls-nizkiy/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/davlenie-povysheno-puls-nizkiy/</guid>
+      <pubDate>Sun, 04 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Давление повышено а пульс низкий что делать: почему возникает такое сочетание, какие лекарства его дают, как правильно измерить пульс и когда вызывать врача</description>
+    </item>
+    <item>
       <title>Закаливание организма дома для начинающих</title>
       <link>https://dystymis.github.io/zdorovie-legko/zakalivanie-organizma-doma/</link>
       <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/zakalivanie-organizma-doma/</guid>
       <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
       <description>Закаливание организма дома для начинающих: контрастный душ по 30 секунд, воздушные ванны, график на 4–6 недель и противопоказания — без фанатизма.</description>
+    </item>
+    <item>
+      <title>Выпадение волос у женщин: причины и как лечить дома</title>
+      <link>https://dystymis.github.io/zdorovie-legko/vypadenie-volos-prichiny/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/vypadenie-volos-prichiny/</guid>
+      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Выпадение волос причины как лечить: почему волосы выпадают у женщин, норма и домашний тест на выпадение, уход с питанием и когда нужен приём трихолога</description>
     </item>
     <item>
       <title>Тонус организма утром привычки для бодрости</title>
@@ -104,48 +146,6 @@
       <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/profilaktika-schitovidnoy-zhelezy/</guid>
       <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
       <description>Профилактика заболеваний щитовидной железы: йод 150 мкг в сутки, селен без фанатизма, осмотр и УЗИ по показаниям, стресс и рецептурные препараты.</description>
-    </item>
-    <item>
-      <title>Отёчность ног к вечеру: причины и уход</title>
-      <link>https://dystymis.github.io/zdorovie-legko/ottechnost-nog-k-vecheru/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/ottechnost-nog-k-vecheru/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Отёчность ног к вечеру: долгое сидение, соль, тесная обувь — таблица признаков, 5 вечерних шагов и когда отёк говорит о болезни сердца или почек.</description>
-    </item>
-    <item>
-      <title>Профилактика остеохондроза шейного отдела</title>
-      <link>https://dystymis.github.io/zdorovie-legko/osteohondroz-shei-profilaktika/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/osteohondroz-shei-profilaktika/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Профилактика остеохондроза шейного отдела: высота монитора, микропаузы каждые 40 минут, 5 упражнений, выбор подушки, правила сна и когда к врачу.</description>
-    </item>
-    <item>
-      <title>Хруст в коленях при приседаниях: причины</title>
-      <link>https://dystymis.github.io/zdorovie-legko/hrust-v-kolyenyah-pri-prisedaniyah/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/hrust-v-kolyenyah-pri-prisedaniyah/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Хруст в коленях при приседаниях: почему щёлкают суставы без боли, таблица опасных признаков, 5 упражнений для укрепления коленей и когда идти к врачу.</description>
-    </item>
-    <item>
-      <title>Частая зевота днём причины и признаки</title>
-      <link>https://dystymis.github.io/zdorovie-legko/chastaya-zevota-dne/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/chastaya-zevota-dne/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Частая зевота днём причины: дефицит сна меньше 7 часов, душный кабинет, скучная среда, лекарства и анемия — как отличить зевоту от сонливости и апноэ.</description>
-    </item>
-    <item>
-      <title>Боли в стопах после ходьбы: что делать</title>
-      <link>https://dystymis.github.io/zdorovie-legko/boli-v-stopah-posle-hodby/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/boli-v-stopah-posle-hodby/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Боли в стопах после ходьбы: подошвенный фасцит и плоскостопие, таблица отличий, 6 домашних упражнений, выбор обуви, когда идти к врачу и признаки срочности.</description>
-    </item>
-    <item>
-      <title>Бессонница перед работой: как заснуть</title>
-      <link>https://dystymis.github.io/zdorovie-legko/bessonica-pered-rabotoy/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/bessonica-pered-rabotoy/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Бессонница перед работой из-за тревоги: воронка мыслей, дневник на 10 минут, дыхание, ограничитель вставания, вечерний режим с цифрами и типичные ошибки.</description>
     </item>
   </channel>
 </rss>
