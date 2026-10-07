@@ -6,7 +6,21 @@
     <atom:link href="https://dystymis.github.io/zdorovie-legko/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Практичные статьи о здоровье и самочувствии: привычки, питание, сон, активность и профилактика. Информация не заменяет консультацию врача.</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 06 Oct 2026 06:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 06:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Сухая кожа: причины, чем увлажнить и что делать дома</title>
+      <link>https://dystymis.github.io/zdorovie-legko/suhaya-kozha-prichiny/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/suhaya-kozha-prichiny/</guid>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Сухая кожа причины у взрослых зимой и круглый год: чем увлажнить лицо и тело в домашних условиях, двухнедельный уход и когда нужен врач-дерматолог</description>
+    </item>
+    <item>
+      <title>Норма давления по возрастам: таблица и расшифровка</title>
+      <link>https://dystymis.github.io/zdorovie-legko/norma-davleniya-po-vozrastam/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/norma-davleniya-po-vozrastam/</guid>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Норма давления по возрастам у взрослых и детей: таблица с расшифровкой, что означают верхнее и нижнее значение, как правильно измерять дома и когда нужен врач</description>
+    </item>
     <item>
       <title>Почему живот постоянно вздутый: причины и что делать</title>
       <link>https://dystymis.github.io/zdorovie-legko/zhivot-vzdut-vsegda/</link>
@@ -15,11 +29,25 @@
       <description>Почему живот всегда вздутый: основные причины вздутия после еды и по утрам, что делать дома, какие продукты исключить и когда нужен приём гастроэнтеролога</description>
     </item>
     <item>
+      <title>Тревожное расстройство: симптомы и что делать дома</title>
+      <link>https://dystymis.github.io/zdorovie-legko/trevozhnoe-rasstroystvo/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/trevozhnoe-rasstroystvo/</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Тревожное расстройство: симптомы у взрослых, отличие от обычной тревоги, что делать дома за 2 недели, дыхательные техники и когда нужен врач с лекарствами</description>
+    </item>
+    <item>
       <title>Отекают ноги к вечеру: причины и лечение в домашних</title>
       <link>https://dystymis.github.io/zdorovie-legko/otekayut-nogi-k-vecheru/</link>
       <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/otekayut-nogi-k-vecheru/</guid>
       <pubDate>Tue, 06 Oct 2026 06:00:00 GMT</pubDate>
       <description>Отекают ноги к вечеру лечение в домашних условиях, причины вечерней отёчности ног, что делать сразу вечером и когда отёк ноги становится поводом к врачу</description>
+    </item>
+    <item>
+      <title>Как бросить курить: пошаговый план и советы психолога</title>
+      <link>https://dystymis.github.io/zdorovie-legko/kak-brosit-kurit/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/kak-brosit-kurit/</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Пошаговый план: как бросить курить за месяц, первые 72 часа без сигарет, работа с тягой, советы психолога, что делать при срыве и когда нужен врач</description>
     </item>
     <item>
       <title>Температура 38,3 у взрослого: что делать и чем сбить</title>
@@ -55,6 +83,13 @@
       <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/priznaki-diabeta-u-zhenshchin/</guid>
       <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
       <description>Ранние признаки диабета у женщин: жажда, частое мочеиспускание, зуд и молочница, какие анализы сдать, норма сахара натощак и первые шаги после диагноза.</description>
+    </item>
+    <item>
+      <title>Сахар в крови: норма натощак и после еды у взрослых</title>
+      <link>https://dystymis.github.io/zdorovie-legko/norma-sahara-v-krovi/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/norma-sahara-v-krovi/</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Сахар в крови норма у взрослых натощак и после еды: допустимые значения, преддиабет, как правильно сдать анализ и когда нужен повторный контроль</description>
     </item>
     <item>
       <title>Постоянно немеют пальцы на руках: причины и что делать</title>
@@ -106,46 +141,11 @@
       <description>Признаки аритмии брадикардия: как проявляются перебои в сердце и редкий пульс, чем опасные симптомы отличаются от нормы и какие исследования назначает кардиолог</description>
     </item>
     <item>
-      <title>Давление повышено, а пульс низкий: что делать и почему</title>
-      <link>https://dystymis.github.io/zdorovie-legko/davlenie-povysheno-puls-nizkiy/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/davlenie-povysheno-puls-nizkiy/</guid>
+      <title>Как уснуть быстро: техника дыхания и правила вечера</title>
+      <link>https://dystymis.github.io/zdorovie-legko/kak-usnut-bystro/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/kak-usnut-bystro/</guid>
       <pubDate>Sun, 04 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Давление повышено а пульс низкий что делать: почему возникает такое сочетание, какие лекарства его дают, как правильно измерить пульс и когда вызывать врача</description>
-    </item>
-    <item>
-      <title>Закаливание организма дома для начинающих</title>
-      <link>https://dystymis.github.io/zdorovie-legko/zakalivanie-organizma-doma/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/zakalivanie-organizma-doma/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Закаливание организма дома для начинающих: контрастный душ по 30 секунд, воздушные ванны, график на 4–6 недель и противопоказания — без фанатизма.</description>
-    </item>
-    <item>
-      <title>Выпадение волос у женщин: причины и как лечить дома</title>
-      <link>https://dystymis.github.io/zdorovie-legko/vypadenie-volos-prichiny/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/vypadenie-volos-prichiny/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Выпадение волос причины как лечить: почему волосы выпадают у женщин, норма и домашний тест на выпадение, уход с питанием и когда нужен приём трихолога</description>
-    </item>
-    <item>
-      <title>Тонус организма утром привычки для бодрости</title>
-      <link>https://dystymis.github.io/zdorovie-legko/tonus-organizma-utrom/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/tonus-organizma-utrom/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Тонус организма утром привычки: свет в первые 30 минут, стакан воды, 5 минут движения, кофе через 90 минут и холодное умывание — план с цифрами.</description>
-    </item>
-    <item>
-      <title>Шелушение кожи на лице зимой: причины и уход</title>
-      <link>https://dystymis.github.io/zdorovie-legko/shellushenie-kozi-na-litse-zimoy/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/shellushenie-kozi-na-litse-zimoy/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Шелушение кожи на лице зимой: холод, отопление и сухой воздух, барьер кожи, мягкие очищающие средства, церамиды, домашний уход и когда к врачу.</description>
-    </item>
-    <item>
-      <title>Профилактика заболеваний щитовидной железы</title>
-      <link>https://dystymis.github.io/zdorovie-legko/profilaktika-schitovidnoy-zhelezy/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/profilaktika-schitovidnoy-zhelezy/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Профилактика заболеваний щитовидной железы: йод 150 мкг в сутки, селен без фанатизма, осмотр и УЗИ по показаниям, стресс и рецептурные препараты.</description>
+      <description>Как уснуть быстро за 10 минут: техника дыхания 4-6, правила вечера без экранов, что делать, если не спится 20 минут, и когда нужен врач при бессоннице</description>
     </item>
   </channel>
 </rss>
