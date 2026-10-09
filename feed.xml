@@ -6,7 +6,35 @@
     <atom:link href="https://dystymis.github.io/zdorovie-legko/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Практичные статьи о здоровье и самочувствии: привычки, питание, сон, активность и профилактика. Информация не заменяет консультацию врача.</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 07 Oct 2026 06:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Насморк у взрослых: лечение, капли и народные средства</title>
+      <link>https://dystymis.github.io/zdorovie-legko/nasmork-lechenie-u-vzroslyh/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/nasmork-lechenie-u-vzroslyh/</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Насморк лечение у взрослых: капли, промывания и народные средства, сроки выздоровления, признаки гайморита и правила безопасности сосудосуживающих препаратов</description>
+    </item>
+    <item>
+      <title>Геморрой у взрослых: первые признаки и стадии болезни</title>
+      <link>https://dystymis.github.io/zdorovie-legko/gemorroy-priznaki/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/gemorroy-priznaki/</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Геморрой признаки на ранней стадии: зуд, кровь на туалетной бумаге, узлы, стадии болезни, что делать дома и когда идти к проктологу, профилактика запоров</description>
+    </item>
+    <item>
+      <title>Первые признаки инсульта: как распознать и что делать</title>
+      <link>https://dystymis.github.io/zdorovie-legko/pervye-priznaki-insulta/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/pervye-priznaki-insulta/</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Первые признаки инсульта: асимметрия лица, слабость руки, нарушение речи, тест по времени, что делать до приезда скорой, факторы риска и реабилитация</description>
+    </item>
+    <item>
+      <title>Грипп или простуда: как отличить в домашних условиях</title>
+      <link>https://dystymis.github.io/zdorovie-legko/gripp-ili-prostuda-otlichie/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/gripp-ili-prostuda-otlichie/</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Грипп или простуда как отличить в домашних условиях: таблица отличий по температуре, кашлю и насморку, признаки тяжёлого течения и действия на первые сутки</description>
+    </item>
     <item>
       <title>Сухая кожа: причины, чем увлажнить и что делать дома</title>
       <link>https://dystymis.github.io/zdorovie-legko/suhaya-kozha-prichiny/</link>
@@ -20,6 +48,13 @@
       <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/norma-davleniya-po-vozrastam/</guid>
       <pubDate>Wed, 07 Oct 2026 06:00:00 GMT</pubDate>
       <description>Норма давления по возрастам у взрослых и детей: таблица с расшифровкой, что означают верхнее и нижнее значение, как правильно измерять дома и когда нужен врач</description>
+    </item>
+    <item>
+      <title>Межпозвоночная грыжа: симптомы по отделам позвоночника</title>
+      <link>https://dystymis.github.io/zdorovie-legko/mezhpozvonochnaya-gryzha/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/mezhpozvonochnaya-gryzha/</guid>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Межпозвоночная грыжа симптомы в шейном, грудном и поясничном отделах: боль, онемение, слабость ног, когда нужен МРТ и операция, диагностика и лечение дома</description>
     </item>
     <item>
       <title>Кровоточат десны: причины и что делать в домашних условиях</title>
@@ -71,6 +106,13 @@
       <description>Пошаговый план: как бросить курить за месяц, первые 72 часа без сигарет, работа с тягой, советы психолога, что делать при срыве и когда нужен врач</description>
     </item>
     <item>
+      <title>Гастрит желудка: симптомы, обострение и что делать дома</title>
+      <link>https://dystymis.github.io/zdorovie-legko/gastrit-simptomy-lechenie/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/gastrit-simptomy-lechenie/</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Гастрит симптомы и обострение: боль под ложечкой, тошнота, тяжесть после еды, питание в острый период, диета и признаки, требующие гастроскопии</description>
+    </item>
+    <item>
       <title>Почему болят колени при ходьбе: причины и лечение дома</title>
       <link>https://dystymis.github.io/zdorovie-legko/bolyat-koleni-pri-hodbe/</link>
       <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/bolyat-koleni-pri-hodbe/</guid>
@@ -104,48 +146,6 @@
       <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/shum-v-ushah-prichiny/</guid>
       <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
       <description>Шум в ушах: причины звона и гула, первые шаги в домашних условиях, препараты по назначению ЛОРа, правило 60/60, аудиометрия и признаки для врача.</description>
-    </item>
-    <item>
-      <title>Признаки диабета у женщин на ранней стадии: первые симптомы</title>
-      <link>https://dystymis.github.io/zdorovie-legko/priznaki-diabeta-u-zhenshchin/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/priznaki-diabeta-u-zhenshchin/</guid>
-      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Ранние признаки диабета у женщин: жажда, частое мочеиспускание, зуд и молочница, какие анализы сдать, норма сахара натощак и первые шаги после диагноза.</description>
-    </item>
-    <item>
-      <title>Сахар в крови: норма натощак и после еды у взрослых</title>
-      <link>https://dystymis.github.io/zdorovie-legko/norma-sahara-v-krovi/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/norma-sahara-v-krovi/</guid>
-      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Сахар в крови норма у взрослых натощак и после еды: допустимые значения, преддиабет, как правильно сдать анализ и когда нужен повторный контроль</description>
-    </item>
-    <item>
-      <title>Постоянно немеют пальцы на руках: причины и что делать</title>
-      <link>https://dystymis.github.io/zdorovie-legko/nemeyut-palcy-ruk-prichiny/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/nemeyut-palcy-ruk-prichiny/</guid>
-      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Постоянно немеют пальцы рук причины: какой палец немеет, что делать дома, когда онемение — признак компрессии нерва и какие обследования назначит врач</description>
-    </item>
-    <item>
-      <title>Почему кровоточат десны: причины и способы лечения</title>
-      <link>https://dystymis.github.io/zdorovie-legko/krovyatochat-desny-prichiny/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/krovyatochat-desny-prichiny/</guid>
-      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Почему кровоточат десны: причины и что делать дома, техника чистки и ополаскивание, курс на две недели, витамин C, профилактика и когда идти к стоматологу.</description>
-    </item>
-    <item>
-      <title>Гемоглобин: чем повысить продуктами в домашних условиях</title>
-      <link>https://dystymis.github.io/zdorovie-legko/gemoglobin-chem-povysit/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/gemoglobin-chem-povysit/</guid>
-      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Чем повысить гемоглобин продуктами: таблица продуктов с железом, правила сочетаний для лучшего усвоения, меню на день, дозы добавок и когда нужны таблетки.</description>
-    </item>
-    <item>
-      <title>Повышенное давление при беременности: симптомы и что делать</title>
-      <link>https://dystymis.github.io/zdorovie-legko/davlenie-pri-beremennosti/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/zdorovie-legko/davlenie-pri-beremennosti/</guid>
-      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Повышенное давление при беременности: нормы по неделям, как правильно измерить дома и вести дневник показаний, чем лечить и признаки преэклампсии у женщин.</description>
     </item>
   </channel>
 </rss>
